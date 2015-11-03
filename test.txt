@@ -1,0 +1,4 @@
+
+# sample
+tot = sum (a,b,c)
+display tot
